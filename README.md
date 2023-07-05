@@ -1,4 +1,6 @@
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
+<img src="banner.gif" width="100%" height="100%">
+
+<br>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -6,7 +8,7 @@
   </a>
 </h1>
    
-###  <img src="/images/Developer.gif" alt="About Me"  height="45px">  About Me:
+###  <img src="/developer.gif" alt="About Me"  height="45px">  About Me:
 <p align="center">
   Hi, I'm Selim Waly. A Software Engineer from Egypt.
   <br>
