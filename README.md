@@ -17,9 +17,9 @@
   <br>
   💻 I love creating websites, advanced softwares, electronic mechanism and reverse engineering analysis programs.
   <br>
-  🏆 My main goal is to increase efficiency in every daily process.
+  🏆 My main goal is to increase efficiency in every daily process by finding a way to enhance with the natural algorithm.
   <br>
-  📫 If you would like to get in contact with me, email me at <a href="mailto:selimwalyy@gmail.com">selimwalyy@gmail.com</a> or through these buttons
+  📫 If you would like to get in contact with me, email me at <a href="mailto:selimwalyy@gmail.com">selimwalyy@gmail.com</a> or through these buttons:
   <br>
 
 </p>
