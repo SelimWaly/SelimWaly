@@ -15,7 +15,9 @@
   <br>
   👨‍🎓 I am the CEO of Voltra Inc.
   <br>
-  💻 I love creating websites, advanced softwares and electronic mechanism.
+  💻 I love creating websites, advanced softwares, electronic mechanism and reverse engineering analysis programs.
+  <br>
+  🏆 My main goal is to increase efficiency in every daily process.
   <br>
   📫 If you would like to get in contact with me, email me at <a href="mailto:selimwalyy@gmail.com">selimwalyy@gmail.com</a> or through these buttons
   <br>
