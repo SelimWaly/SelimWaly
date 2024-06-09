@@ -73,7 +73,7 @@ Contact me through the following buttons:
   <a href="mailto:selimwalyy@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=36></a>
   <a href="http://wa.me//201033043588"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=36></a>
   <a href="https://www.youtube.com/@SelimWaly"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=36></a>
-  <a href="https://telehack.com"><img src="https://img.shields.io/badge/Telnet-000000?style=for-the-badge&logo=microsoft&logoColor=green" height=36></a>
+  <a href="https://x.com/SelimWaly"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height=36></a>
 </p>
 
 <br>
