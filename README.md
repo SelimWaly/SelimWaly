@@ -59,7 +59,7 @@
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimWaly&show_icons=true&hide=issues&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimWaly&show_icons=true&hide=issues&theme=radical&rank_icon=default)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&langs_count=100&layout=pie&theme=radical)
 
