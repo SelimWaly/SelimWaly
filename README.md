@@ -34,6 +34,8 @@
   - Neural Networks Development
   - Malware Development
   - Hardware Projects Engineering
+  - Database Penetration
+  - Vulnerabilities Detection
   - Operating Systems Development
   - Machine Learning
   - Prompt Engineering
