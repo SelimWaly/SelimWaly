@@ -30,7 +30,7 @@
 - **Expertise:**
   - Website Development
   - Desktop Application Development
-  - Quantum Computing Engineering
+  - Quantum Computing
   - Neural Networks Development
   - Malware Development
   - Hardware Projects Engineering
