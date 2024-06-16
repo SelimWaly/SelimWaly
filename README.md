@@ -27,7 +27,7 @@
 - **Name:** Selim Waly
 - **Title:** Senior Software Engineer and Professional Chess Player
 - **Experience:** 9+ years
-- **Expertise:**
+- **Proficiencies:**
   - Website Development
   - Desktop Application Development
   - Quantum Computing
