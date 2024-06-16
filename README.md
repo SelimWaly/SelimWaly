@@ -71,7 +71,7 @@
 ### 📕 Activity
 *Analytical card displaying a letter-grade for my GitHub activity.*
 
-<img height="233em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SelimWaly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged&layout=compact"/>
+<img height="235em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SelimWaly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged&layout=compact"/>
 
 </td><td valign="top" width="40%">
 
