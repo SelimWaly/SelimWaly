@@ -61,10 +61,26 @@
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimWaly&show_icons=true&hide=issues&theme=radical&rank_icon=default)
+<!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimWaly&show_icons=true&hide=issues&theme=radical&rank_icon=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&langs_count=100&layout=pie&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&langs_count=100&layout=pie&theme=radical)-->
 
+
+<table><tr><td valign="top" width="60%">
+
+### 📕 Activity
+*Analytical card displaying a letter-grade for my GitHub activity.*
+
+<img height="223em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SelimWaly&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,prs_merged&layout=compact"/>
+
+</td><td valign="top" width="40%">
+
+### 📝 Languages
+*Chart displaying my common languages.*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&layout=compact&langs_count=10&theme=radical)
+
+</td></tr></table>
 
 ## Contact Me
 
