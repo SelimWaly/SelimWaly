@@ -30,7 +30,6 @@
 - **Proficiencies:**
   - Website Development
   - Desktop Application Development
-  - Quantum Computing
   - Neural Networks Development
   - Malware Development
   - Hardware Projects Engineering
