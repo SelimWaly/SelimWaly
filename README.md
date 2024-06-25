@@ -45,10 +45,10 @@
 
 ![C](https://img.shields.io/badge/C-007396?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-007396?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-F05032?style=flat-square&logo=HTML5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Cuda](https://img.shields.io/badge/Cuda-339933?style=flat-square&logo=nvidia&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
