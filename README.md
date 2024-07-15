@@ -1,4 +1,4 @@
-<img src="banner.gif" width="100%" height="80%" alt="Banner">
+<img src="assets/banner.gif" width="100%" height="80%" alt="Banner">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
