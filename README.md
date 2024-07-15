@@ -54,14 +54,38 @@
 
 <br>
 
-<p align="center">
+<!--<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&theme=gotham&layout=compact&langs_count=10" width="35%"/> 
-</p>
+</p>-->
+
+<!-- <p align="center">
+<a href="https://github.com/SelimWaly?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=SelimWaly&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="40%" alt="@SelimWaly's github-readme-stats"/></a>
+<!-- <a href="https://github.com/SelimWaly?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=SelimWaly&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="40%" alt="@SelimWaly's github-readme-streak-stats"/></a> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&theme=gotham&layout=compact&langs_count=10" width="35%"/> 
+</p> -->
 
 <p align="center">
-<a href="https://github.com/SelimWaly?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=SelimWaly&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="40%" alt="@SelimWaly's github-readme-stats"/></a>
-<a href="https://github.com/SelimWaly?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=SelimWaly&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="40%" alt="@SelimWaly's github-readme-streak-stats"/></a>
-</p>
+
+<!--![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=SelimWaly&show_icons=true&hide=issues&theme=radical&rank_icon=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&langs_count=100&layout=pie&theme=radical)-->
+
+
+<table><tr><td valign="top" width="60%">
+
+### Activity
+*Analytical card displaying a letter-grade for my GitHub activity.*
+
+<img height="238em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SelimWaly&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&show=reviews,prs_merged&layout=compact"/>
+
+</td><td valign="top" width="40%">
+
+### Languages
+*Chart displaying my common languages.*
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&layout=compact&langs_count=10&theme=gotham)
+
+</td></tr></table>
 
 </p>
 
