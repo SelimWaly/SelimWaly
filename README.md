@@ -127,8 +127,8 @@
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" />
+      <br>HTML
     </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
