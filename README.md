@@ -30,16 +30,13 @@
 
 - **Name:** Selim Waly
 - **Description:** Senior Software Engineer and Professional Chess Player
-- **Experience:** 9+ years
+- **Experience:** 8+ years
 - **Proficiencies:**
   - Website Development
-  - Desktop Application Development
-  - Neural Networks Development
+  - Neural Networking
   - Malware Development
   - Hardware Projects Engineering
   - Database Penetration
-  - Vulnerabilities Detection
-  - Operating Systems Development
   - Machine Learning
   - Prompt Engineering
   - Database Administration
