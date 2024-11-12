@@ -188,7 +188,7 @@
 <p align="center">
 <!--         <img src="https://github-profile-trophy.vercel.app/?username=SelimWaly&column=-1&theme=dracula&layout=compact"width="100%">  -->
 <!--     <a href="https://github.com/SelimWaly/"> -->
-      <img src="https://github-profile-trophy.vercel.app/?username=SelimWaly&theme=dracula&title=MultipleLang,Repositories,Commits,Stars,Followers" width="90%" style="margin-left: 50%">
+      <img src="https://github-profile-trophy.vercel.app/?username=SelimWaly&theme=dracula&title=MultipleLang,Repositories,Commits,Stars,Followers" width="90%" style="margin-left: "50%">
 <!--     </a> -->
 </p>
 
