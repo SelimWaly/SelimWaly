@@ -2,12 +2,14 @@
 
 </p>
 
+<!--https://egyptatours.com/wp-content/uploads/2024/08/See-the-entire-city-from-the-Cairo-Tower-Things-to-do-in-Cairo-at-night.webp-->
 
-<img src="./assets/banner.gif" width="100%" height="80%" alt="Banner">
+
+<img src="./assets/See-the-entire-city-from-the-Cairo-Tower-Things-to-do-in-Cairo-at-night.webp" width="100%" height="80%" alt="Banner">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?&color=F74A22&lines=Hey+there!+%F0%9F%91%8B;I'm+Selim+Waly;Software+Engineer;CEO+of+Voltra+Inc.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?&color=F74A22&lines=Hey+there!+%F0%9F%91%8B;&center=true&size=30">
   </a>
 </h1>
 
@@ -16,11 +18,11 @@
 <a href="https://github.com/SelimWaly">
         <img src="https://komarev.com/ghpvc/?username=SelimWaly&color=blue&style=for-the-badge" alt="Profile Views">
     </a>
-    <a href="https://github.com/VoltraInc">
+    <!-- <a href="https://github.com/VoltraInc">
         <img src="https://img.shields.io/badge/Organization-Voltra_Inc-blue?style=for-the-badge" alt="Main Organization">
-    </a>
+    </a> -->
     <a href="https://github.com/SelimWaly">
-        <img src="https://img.shields.io/badge/NPU Computer Status-Online-green?style=for-the-badge" alt="NPU Computer Status">
+        <img src="https://img.shields.io/badge/Status-Online-green?style=for-the-badge" alt="Status">
     </a>
 </p>
 
@@ -29,22 +31,12 @@
 ## Profile
 
 - **Name:** Selim Waly
-- **Description:** Senior Software Engineer and Professional Chess Player
+- **Description:** Senior Software Engineer & Hardware Enthusiast
 - **Experience:** 8+ years
-- **Proficiencies:**
-  - Website Development
-  - Neural Networking
-  - Malware Development
-  - Hardware Projects Engineering
-  - Database Penetration
-  - Machine Learning
-  - Prompt Engineering
-  - Database Administration
-  - Mobile Application Development
 
 
 <br>
-<br>
+<!-- <br> -->
 
 
 ## Development
@@ -69,14 +61,14 @@
 <table><tr><td valign="top" width="60%">
 
 ### Activity
-*Analytical card displaying a letter-grade for my GitHub activity.*
+*Analytical card displaying a letter-grade for my GitHub activity*
 
 <img height="238em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SelimWaly&show_icons=true&theme=gotham&include_all_commits=false&count_private=true&show=reviews,prs_merged&layout=compact"/>
 
 </td><td valign="top" width="40%">
 
 ### Languages
-*Chart displaying my common languages.*
+*Chart displaying my common languages*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SelimWaly&layout=compact&langs_count=10&theme=gotham)
 
@@ -146,8 +138,8 @@
   </tr>
   <tr>
     <td align="center" width="128">
-      <img src="https://skillicons.dev/icons?i=vscode" width="60" height="60" alt="VSCode" />
-      <br>VSCode
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="60" alt="C" />
+      <br>Docker
     </td>
     <td align="center" width="128">
       <img src="https://skillicons.dev/icons?i=firebase" width="60" height="60" alt="Firebase" />
