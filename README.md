@@ -5,7 +5,7 @@
 <!--https://egyptatours.com/wp-content/uploads/2024/08/See-the-entire-city-from-the-Cairo-Tower-Things-to-do-in-Cairo-at-night.webp-->
 
 
-<img src="./assets/See-the-entire-city-from-the-Cairo-Tower-Things-to-do-in-Cairo-at-night.webp" width="100%" height="80%" alt="Banner">
+<img src="./assets/bg.webp" width="100%" height="80%" alt="Banner">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -31,7 +31,7 @@
 ## Profile
 
 - **Name:** Selim Waly
-- **Description:** Senior Software Engineer & Hardware Enthusiast
+- **Description:** Computer Engineer & Hardware Enthusiast
 - **Experience:** 8+ years
 
 
